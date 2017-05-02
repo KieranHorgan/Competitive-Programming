@@ -1,3 +1,5 @@
+// Scores 50 points
+
 #include <bits/stdc++.h>
 #include "boxes.h"
 
